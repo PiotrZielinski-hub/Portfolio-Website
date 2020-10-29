@@ -1,4 +1,4 @@
-#Porfolio Website
+<h1>Porfolio Website</h1>
 
 Hi my name is Piotr Zielinski and this is my first personal porfolio website. I'm going to use HTML SASS and JavaScript while building this site. I hope you like it.
 
