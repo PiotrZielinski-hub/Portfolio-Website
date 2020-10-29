@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is my first porfolio website.",
+  "main": "script.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiotrZielinski-hub/Portfolio-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiotrZielinski-hub/Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/PiotrZielinski-hub/Portfolio-Website#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
